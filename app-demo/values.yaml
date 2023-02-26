@@ -8,11 +8,7 @@ image:
   repository: luudinhmac/demo-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-<<<<<<< HEAD
   tag: "v1.1"
-=======
-  tag: "v1.7"
->>>>>>> 248ead9f71765bffe4abb2b6946f4371368b3893
 
 imagePullSecrets: []
 nameOverride: ""
